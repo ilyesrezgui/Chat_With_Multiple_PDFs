@@ -7,4 +7,5 @@
 Characteristics Covered
 * Irreducibility: The Markov chain is irreducible if every state is accessible from every other state.
   
-  ![Approach](irre.jpg)
+  ![Approach](1.jpg)
+   ![Approach](2.jpg)
