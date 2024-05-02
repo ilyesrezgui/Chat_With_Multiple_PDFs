@@ -5,5 +5,9 @@ We use OpenAi's embeddings for feature extraction and GPT-3 for responding. Open
 
   
   ![Approach](1.png)
+  
   You can upload the pdf from the side bar, process them by clicking on process then start asking you pdf through the text area.
+
+
+  
   ![Approach](2.png)
